@@ -13,7 +13,7 @@ import javax.ws.rs.core.Application;
  *
  * @author c0653602
  */
-@javax.ws.rs.ApplicationPath("restful")
+@javax.ws.rs.ApplicationPath("SearchProduct")
 public class ApplicationConfig extends Application {
     
     @Override
